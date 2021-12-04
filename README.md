@@ -2,6 +2,9 @@
 
 In this project I developed a simple app to connect react with rails and fetch some random information from database.
 
+## Link to front-end
+
+- [Front-end](https://github.com/afcastaneda223/hello-react-front-end)
 
 ## Built With
 
@@ -19,7 +22,7 @@ In this project I developed a simple app to connect react with rails and fetch s
 
 1. Clone the repo
 
-   git clone https://github.com/hunter4466/hello_rails_react.git
+   git clone https://github.com/afcastaneda223/hello-rails-back-end
   
 
 ### Usage
@@ -55,21 +58,13 @@ In this project I developed a simple app to connect react with rails and fetch s
    localhost:3000
    ```
 
-### Test
-
-For testing the classes run:
-
-   ```sh
-   bundle exec rspec spec
-   ```
-
 ## Author
 
 👤 **Andres Castañeda**
 
 - GitHub: [@afcastaneda223](https://github.com/afcastaneda223)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- Twitter: [@afcastaneda](https://twitter.com/afcastaneda)
+- LinkedIn: [andcast](https://www.linkedin.com/in/andcast/)
 
 
 ## 🤝 Contributing
